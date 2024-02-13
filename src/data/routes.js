@@ -10,7 +10,8 @@ const routes = [
   },
   {
     label: 'CV',
-    path: 'https://cgartrel.github.io/mike-cv.pdf',
+    path: '/mike-cv.pdf',
+    target: '_top',
   },
   // {
   //   label: 'Resume',

@@ -20,7 +20,7 @@ const Index = () => (
       </header>
       <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
-        <Link to="https://cgartrel.github.io/mike-cv.pdf">CV</Link>, {' '}
+        <Link to="/mike-cv.pdf" target="_top">CV</Link>, {' '}
         <Link to="/publications">publications</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>

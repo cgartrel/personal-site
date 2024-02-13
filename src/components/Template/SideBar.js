@@ -22,7 +22,7 @@ const SideBar = () => (
       <p>I&apos;m an independent AI researcher focusing on generative AI, language models, and probablistic modeling. Previously, I worked as a senior researcher at the <a href="https://ailab.criteo.com">Criteo AI Lab</a>, and as a post-doc researcher at <a href="https://www.microsoft.com">Microsoft</a>.</p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="https://cgartrel.github.io/mike-cv.pdf" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
+          {!window.location.pathname.includes('/mike-cv.pdf') ? <Link to="/mike-cv.pdf" target="_top" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
         </li>
       </ul>
     </section>
