@@ -4,11 +4,11 @@ import Markdown from 'markdown-to-jsx';
 
 import Main from '../layouts/Main';
 
-const About = () => {
+const Publications = () => {
   const [markdown, setMarkdown] = useState('');
 
   useEffect(() => {
-    import('../data/about.md')
+    import('../data/publications.md')
       .then((res) => {
         fetch(res.default)
           .then((r) => r.text())
@@ -16,20 +16,19 @@ const About = () => {
       });
   });
 
-  const count = markdown.split(/\s+/)
-    .map((s) => s.replace(/\W/g, ''))
-    .filter((s) => s.length).length;
+  // const count = markdown.split(/\s+/)
+  //   .map((s) => s.replace(/\W/g, ''))
+  //   .filter((s) => s.length).length;
 
   return (
     <Main
-      title="About"
-      description="Learn about Mike Gartrell"
+      title="Publications"
+      description="Learn about Michael D'Angelo"
     >
-      <article className="post markdown" id="about">
+      <article className="post markdown" id="publications">
         <header>
           <div className="title">
-            <h2><Link to="/about">About Me</Link></h2>
-            <p>(in about {count} words)</p>
+            <h2><Link to="/publications">Selected Publications</Link></h2>
           </div>
         </header>
         <Markdown>
@@ -40,4 +39,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Publications;

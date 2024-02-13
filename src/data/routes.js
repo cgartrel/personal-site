@@ -1,7 +1,7 @@
 const routes = [
   {
     index: true,
-    label: "Michael D'Angelo",
+    label: 'Mike Gartrell',
     path: '/',
   },
   {
@@ -9,21 +9,33 @@ const routes = [
     path: '/about',
   },
   {
-    label: 'Resume',
-    path: '/resume',
+    label: 'CV',
+    path: 'https://cgartrel.github.io/mike-cv.pdf',
   },
+  // {
+  //   label: 'Resume',
+  //   path: '/resume',
+  // },
   {
-    label: 'Projects',
-    path: '/projects',
+    label: 'Publications',
+    path: '/publications',
   },
-  {
-    label: 'Stats',
-    path: '/stats',
-  },
+  // {
+  //   label: 'Projects',
+  //   path: '/projects',
+  // },
+  // {
+  //   label: 'Stats',
+  //   path: '/stats',
+  // },
   {
     label: 'Contact',
     path: '/contact',
   },
+  // {
+  //   label: 'Test',
+  //   path: '/publications',
+  // },
 ];
 
 export default routes;
