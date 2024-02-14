@@ -10,9 +10,9 @@ I have published more than 60 papers, with over 1500 citations total. See my [Go
 
 - [Learning from Multiple Sources for Data-to-Text and Text-to-Data](https://arxiv.org/abs/2302.11269) (AISTATS 2023)
 
-# Determinantal Point Processes
+# Subset selection and diversity learning
 
-Determinantal Point Processes (DPPs) are a class of discrete distributions used for subset selection modeling. DPPs have received growing attention in the machine learning community over the past decade, and have many applications in areas such as reinforcement learning, recommendation systems, language model decoding, document summarization, and minibatch selection.
+This work involves Determinantal Point Processes (DPPs), which are a class of discrete distributions used for modeling selection of diverse subsets of items. DPPs have received growing attention in the machine learning community over the past decade, and have many applications in areas such as reinforcement learning, recommendation systems, language model decoding, document summarization, and minibatch selection.
 
 - [Scalable MCMC Sampling for Nonsymmetric Determinantal Point Processes](https://arxiv.org/abs/2207.00486) (ICML 2022, *long presentation*)
 
