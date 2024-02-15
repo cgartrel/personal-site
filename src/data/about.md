@@ -2,4 +2,4 @@ I'm an independent AI researcher working on generative AI topics, including larg
 
 <br>
 
-Previously I worked as a senior researcher at the [Criteo AI Lab](https://ailab.criteo.com) in Paris, France, where I pursued research on generative AI, recommender systems, and a class of models for subset selection known as determinantal point processes (DPPs). Prior to Criteo I worked as a post-doc researcher at [Microsoft](https://www.microsoft.com/), where I focused on recommender systems and DPPs.
+Previously I worked as a senior researcher at the [Criteo AI Lab](https://ailab.criteo.com) in Paris, France, where I pursued research on generative AI, recommender systems, and a class of models for subset selection known as determinantal point processes (DPPs). Prior to Criteo I worked as a post-doc researcher at [Microsoft](https://www.microsoft.com/), where I focused on recommender systems and DPPs. I received my PhD in 2014 from the University of Colorado Boulder, where I worked on recommender systems and was supervised by [Richard Han](https://researchers.mq.edu.au/en/persons/richard-han). 
