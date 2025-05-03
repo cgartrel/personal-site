@@ -1,4 +1,4 @@
-I'm an independent AI researcher working on generative AI topics, including large language models (LLMs) and diffusion models. My research interests involve leveraging insights from probablistic modeling approaches to improve LLMs, unifying conventionally disparate classes of generative models such as score-based diffusion models and generative adversarial networks (GANs), and enhancing diffusion models and LLMs to enable new applications. 
+I'm a lead AI research scientist at [Sigma Nova](https://www.sigmanova.ai), working on generative AI topics for scientific foundation models. My research interests include Bayesian deep learning (BDL), diffusion models, and probablistic modeling. I'm particularly interested in using scalable stochastic gradient Markov chain Monte Carlo (MCMC) approaches from BDL to enable uncertainity quantification, improve data efficiency, and reduce hallunications in scientific foundation models.
 
 <br>
 

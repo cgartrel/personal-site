@@ -1,8 +1,8 @@
-I have published more than 60 papers, with over 1500 citations total. See my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=NX6eiWYAAAAJ) for a full list of my publications.
+I have published more than 60 papers, with over 1600 citations total. See my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=NX6eiWYAAAAJ) for a full list of my publications.
 
 # Generative AI
 
-- [Differentially Private Gradient Flow based on the Sliced Wasserstein Distance for Non-Parametric Generative Modeling](https://arxiv.org/abs/2312.08227) (arXiv 2023)
+- [Differentially Private Gradient Flow based on the Sliced Wasserstein Distance](https://arxiv.org/abs/2312.08227) (TMLR 2025)
 
 - [Unifying GANs and Score-Based Diffusion as Generative Particle Models](https://arxiv.org/abs/2305.16150) (NeurIPS 2023)
 
@@ -12,7 +12,7 @@ I have published more than 60 papers, with over 1500 citations total. See my [Go
 
 # Subset selection and diversity learning
 
-This work involves Determinantal Point Processes (DPPs), which are a class of discrete distributions used for modeling selection of diverse subsets of items. DPPs have received growing attention in the machine learning community over the past decade, and have many applications in areas such as reinforcement learning, recommendation systems, language model decoding, document summarization, and minibatch selection.
+This work involves Determinantal Point Processes (DPPs), which are a class of discrete distributions used for modeling the selection of diverse subsets of items. DPPs have received growing attention in the machine learning community over the past decade, and have many applications in areas such as reinforcement learning, recommendation systems, language model decoding, document summarization, and minibatch selection.
 
 - [Scalable MCMC Sampling for Nonsymmetric Determinantal Point Processes](https://arxiv.org/abs/2207.00486) (ICML 2022, *long presentation*)
 

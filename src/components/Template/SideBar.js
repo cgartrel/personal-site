@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>I&apos;m an independent AI researcher focusing on generative AI, language models, and probablistic modeling. Previously, I worked as a senior researcher at the <a href="https://ailab.criteo.com">Criteo AI Lab</a>, and as a post-doc researcher at <a href="https://www.microsoft.com">Microsoft</a>.</p>
+      <p>I&apos;m a lead AI research scientist at <a href="https://www.sigmanova.ai">Sigma Nova</a>, focusing on fundamental AI research for scientific foundation models. Previously, I worked as a senior researcher at the <a href="https://ailab.criteo.com">Criteo AI Lab</a>, and as a post-doc researcher at <a href="https://www.microsoft.com">Microsoft</a>.</p>
       <ul className="actions">
         <li>
           {!window.location.pathname.includes('/mike-cv.pdf') ? <Link to="/mike-cv.pdf" target="_top" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
