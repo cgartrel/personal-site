@@ -1,4 +1,4 @@
-I'm a lead AI research scientist at [Sigma Nova](https://www.sigmanova.ai), working on generative AI topics for scientific foundation models. My research interests include Bayesian deep learning (BDL), diffusion models, and probablistic modeling. I'm particularly interested in using scalable stochastic gradient Markov chain Monte Carlo (MCMC) approaches from BDL to enable uncertainity quantification, improve data efficiency, and reduce hallunications in scientific foundation models.
+I'm a lead AI research scientist at [Sigma Nova](https://www.sigmanova.ai), working on generative AI topics for scientific foundation models. My research interests include Bayesian deep learning (BDL), diffusion models, and probablistic modeling. In particular, I'm interested in using scalable stochastic gradient Markov chain Monte Carlo (MCMC) approaches from BDL to enable uncertainity quantification, improve data efficiency, and reduce hallunications in scientific foundation models. I'm also interested in diffusion-based approaches for time series foundation models.
 
 <br>
 

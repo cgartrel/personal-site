@@ -1,6 +1,8 @@
-I have published more than 60 papers, with over 1600 citations total. See my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=NX6eiWYAAAAJ) for a full list of my publications.
+I have published more than 60 papers, with over 1700 citations total. See my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=NX6eiWYAAAAJ) for a full list of my publications.
 
 # Generative AI
+
+- [ReBaPL: Repulsive Bayesian Prompt Learning](https://arxiv.org/abs/2511.17339) (arXiv 2025)
 
 - [Differentially Private Gradient Flow based on the Sliced Wasserstein Distance](https://arxiv.org/abs/2312.08227) (TMLR 2025)
 
