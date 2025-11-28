@@ -4,6 +4,8 @@ I have published more than 60 papers, with over 1700 citations total. See my [Go
 
 - [ReBaPL: Repulsive Bayesian Prompt Learning](https://arxiv.org/abs/2511.17339) (arXiv 2025)
 
+- [Computing Wasserstein Barycenters through Gradient Flows](https://arxiv.org/abs/2510.04602) (arXiv 2025)
+
 - [Differentially Private Gradient Flow based on the Sliced Wasserstein Distance](https://arxiv.org/abs/2312.08227) (TMLR 2025)
 
 - [Unifying GANs and Score-Based Diffusion as Generative Particle Models](https://arxiv.org/abs/2305.16150) (NeurIPS 2023)
